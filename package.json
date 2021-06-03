@@ -1,0 +1,26 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafamh28/ChatBot-Prueba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafamh28/ChatBot-Prueba/issues"
+  },
+  "homepage": "https://github.com/Rafamh28/ChatBot-Prueba#readme",
+  "dependencies": {
+    "telegraf": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
